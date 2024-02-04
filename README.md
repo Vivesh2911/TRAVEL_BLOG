@@ -24,8 +24,4 @@ This repository contains the source code for the Travel Bharat website, a travel
 2. Open the project directory in your preferred code editor.
 3. Open the `index.html` file in a web browser to view the website.
 
-## Contributing
-Contributions to enhance the website's design, functionality, or content are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
