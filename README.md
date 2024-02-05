@@ -22,6 +22,6 @@ This repository contains the source code for the Travel Bharat website, a travel
 ## Installation
 1. Clone the repository: `git clone [repository URL]`
 2. Open the project directory in your preferred code editor.
-3. Open the `index.html` file in a web browser to view the website.
+3. Open the `TravelBharat.html` file in a web browser to view the website.
 
 
